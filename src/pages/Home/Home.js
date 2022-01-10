@@ -8,6 +8,7 @@ export const Home = () => {
             <div>
                 <Link to='/questionOne'><button>Questão Um</button></Link>
                 <Link to='/questionTwo'><button>Questão Dois</button></Link>
+                <Link to='/questionThree'><button>Questão Três</button></Link>
             </div>
         </div>
     )
