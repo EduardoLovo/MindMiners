@@ -1,0 +1,28 @@
+.bodyHome {
+    background: rgb(10,0,179);
+    background: #063a46;
+    background-size: cover; 
+    height: 100vh;
+    padding-top: 1em;
+
+}
+
+.bodyHome h1 {
+    color: white;
+    font-size: 3rem;
+}
+
+.buttons button {
+    width: 10em;
+    height: 10em;
+    margin: 1em;
+    background-color: rgb(77, 190, 49);
+    border: none;
+    border-radius: 2px;
+    opacity: 1;
+}
+
+.buttons button:hover {
+    opacity: 0.9;
+    cursor: pointer;
+}

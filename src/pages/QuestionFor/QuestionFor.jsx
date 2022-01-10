@@ -4,6 +4,7 @@
 // code in jsx;
 
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 export const QuestionFor = () => {
 
@@ -12,6 +13,9 @@ export const QuestionFor = () => {
     return (
         <div>
             {element}
+
+            <Link to='/'><button>Voltar</button></Link>
+
         </div>
     )
 }
