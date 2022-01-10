@@ -9,6 +9,7 @@ export const Home = () => {
                 <Link to='/questionOne'><button>Questão Um</button></Link>
                 <Link to='/questionTwo'><button>Questão Dois</button></Link>
                 <Link to='/questionThree'><button>Questão Três</button></Link>
+                <Link to='/questionFor'><button>Questão Quatro</button></Link>
             </div>
         </div>
     )
