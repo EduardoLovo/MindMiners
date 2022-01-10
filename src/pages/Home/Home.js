@@ -7,6 +7,7 @@ export const Home = () => {
             <h1>Respostas</h1>
             <div>
                 <Link to='/questionOne'><button>Questão Um</button></Link>
+                <Link to='/questionTwo'><button>Questão Dois</button></Link>
             </div>
         </div>
     )
